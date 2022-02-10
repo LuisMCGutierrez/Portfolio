@@ -1,0 +1,108 @@
+/* section{
+    width: 100%;
+    background: white;
+    height: 100%;
+    align-self: center;
+    border-radius: 5px;
+  }
+  header{
+    height: 10vh;
+    background: #0e1a32;
+    width: 100%;
+  }
+  main{
+    height: 90vh;
+    display: flex;
+    background: #D7D7D7;
+    justify-content: center;
+    width: 100%;
+  } */
+  header{
+    width: 100vw;
+    height: 100vh;
+    border-right: solid 5px #696969;
+    border-left: solid 5px #696969;
+    /* display: none; */
+  }
+  section{
+    width: 100vw;
+    height: 100vh;
+    background-color: #000000;
+    border-right: solid 5px #696969;
+    border-left: solid 5px #696969;
+    border-bottom: solid 5px #696969;
+    padding: 5%;
+    display: flex;
+  }
+  #presentation{
+    font-size: 4rem;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Lobster', cursive;
+  }
+  #presentation  div span{
+    display: block;
+  }
+  #presentation div{
+    align-items: center;
+  }
+  #simbol{
+    width: 100%;
+    height: 25%;
+    background: #000000;
+    font-family: 'Lobster', cursive;
+    font-size: 12rem;
+    color: #0028ff;
+    border-top:solid 5px #696969 ;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-shadow: -7px 0 #1eff05, 0 1px #1eff05, 1px 0 #1eff05, 0 -1px #1eff05;
+  }
+  #simbol:active{
+    color: #1eff05;
+    text-shadow: -7px 0 #0028ff, 0 1px #0028ff, 1px 0 #0028ff, 0 -1px #0028ff;
+  }
+  #menu{
+    width: 100%;
+    height: 75%;
+    font-family: 'Dancing Script', cursive;
+  }
+  ul{
+    width: 100%;
+    height: 100%;
+    border-top: solid 1px #696969;
+  }
+  li{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 25%;
+    border-bottom: solid 1px #696969;
+    color: white;
+    font-size: 4.5rem;
+    background-color: #212121;
+  }
+  li:active{
+    background: #696969;
+    color: black;
+  }
+  .row{
+    display: flex;
+  }
+  .simbol{
+   color: #0028ff;
+   text-shadow: -1px 0 #1eff05, 0 1px #1eff05, 1px 0 #1eff05, 0 -1px #1eff05;
+  }
+  .capitalLetter{
+    color: #0028ff;
+    text-shadow: -1px 0 #1eff05, 0 1px #1eff05, 1px 0 #1eff05, 0 -1px #1eff05;
+  }
+  
+

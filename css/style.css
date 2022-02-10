@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+  html {
+    font-size: 62.5%;
+  }
+  /* body{
+      display: flex;
+      flex-wrap: wrap;
+      width: 100%;
+  }
+  header{
+    height: 100vh;
+    background: #0e1a32;
+    width: 20%;
+  }
+  main{
+    height: 100vh;
+    display: flex;
+    background: #D7D7D7;
+    justify-content: center;
+    width: 80%;
+  }
+  section{
+    width: 50%;
+    background: white;
+    height: 95%;
+    align-self: center;
+    border-radius: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  } */
+  /* .generalInformation{
+    display: flex;
+    flex-wrap: wrap;
+    width: 95%;
+    height: 50%;
+    background: #aa824e;
+    justify-content: center;
+    padding-top: 1%;
+    margin-top: 1%;
+  }
+  .fotoContainer{
+    width: 70%;
+    height: 95%;
+    background: white;
+    border-radius: 50%;
+    justify-self: center;
+    align-self: center; 
+  } */
